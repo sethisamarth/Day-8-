@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\obj\Debug\netcoreapp3.1\EmpWageRefactored.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\obj\Debug\netcoreapp3.1\EmpWageRefactored.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\obj\Debug\netcoreapp3.1\EmpWageRefactored.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\obj\Debug\netcoreapp3.1\EmpWageRefactored.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\obj\Debug\netcoreapp3.1\EmpWageRefactored.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\bin\Debug\netcoreapp3.1\EmpWageRefactored.exe
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\bin\Debug\netcoreapp3.1\EmpWageRefactored.deps.json
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\bin\Debug\netcoreapp3.1\EmpWageRefactored.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\bin\Debug\netcoreapp3.1\EmpWageRefactored.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\bin\Debug\netcoreapp3.1\EmpWageRefactored.dll
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\bin\Debug\netcoreapp3.1\EmpWageRefactored.pdb
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\obj\Debug\netcoreapp3.1\EmpWageRefactored.dll
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\obj\Debug\netcoreapp3.1\EmpWageRefactored.pdb
+C:\Users\Lenovo\Desktop\Day 8 line comparison and emp\EmpWageRefactored\EmpWageRefactored\obj\Debug\netcoreapp3.1\EmpWageRefactored.genruntimeconfig.cache
